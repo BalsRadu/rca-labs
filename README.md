@@ -57,7 +57,7 @@ Each week folder contains a `lab.ipynb` (guided lab exercises) and an `assignmen
 - _Network Science_ — Albert-László Barabási ([networksciencebook.com](https://www.networksciencebook.com/))
 - _A First Course in Network Science_ — Menczer, Fortunato & Davis ([book site](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/) | [GitHub](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience))
 - [Network Science practice assignments](https://github.com/netspractice/network-science) — assignment model and inspiration
-- [Previous netsci-labs material](https://github.com/zademn/netsci-labs) — earlier lab material
+- [netsci-labs repository](https://github.com/zademn/netsci-labs) — earlier lab material
 
 ## Getting Help
 
